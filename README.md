@@ -36,8 +36,8 @@ Listify is a simple and efficient Todo application built with FastAPI, PostgreSQ
 2. Set up your virtual environment:
 
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   python3 -m venv venv
+   source venv/bin/activate  
 3. Install the required packages:
 
    ```bash
