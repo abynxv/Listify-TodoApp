@@ -1,0 +1,7 @@
+fastapi==0.115.3
+uvicorn==0.22.0
+sqlalchemy==1.4.47
+databases==0.7.0
+alembic
+psycopg2-binary
+python-dotenv

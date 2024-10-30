@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+env/
+
+# Docker files
+*.tar
+*.img
+*.log
+# Docker
+*.db
+*.log
+docker-compose.override.yml
+
+# Local environment variables
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Other unwanted files
+*.sqlite3
